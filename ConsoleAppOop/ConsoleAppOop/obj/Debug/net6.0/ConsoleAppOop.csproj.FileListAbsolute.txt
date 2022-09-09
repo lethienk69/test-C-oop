@@ -1,0 +1,15 @@
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\bin\Debug\net6.0\ConsoleAppOop.exe
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\bin\Debug\net6.0\ConsoleAppOop.deps.json
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\bin\Debug\net6.0\ConsoleAppOop.runtimeconfig.json
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\bin\Debug\net6.0\ConsoleAppOop.dll
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\bin\Debug\net6.0\ConsoleAppOop.pdb
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.csproj.AssemblyReference.cache
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.AssemblyInfoInputs.cache
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.AssemblyInfo.cs
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.csproj.CoreCompileInputs.cache
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.dll
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\refint\ConsoleAppOop.dll
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.pdb
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ConsoleAppOop.genruntimeconfig.cache
+D:\omt\badpaybad training\ConsoleAppOop\ConsoleAppOop\obj\Debug\net6.0\ref\ConsoleAppOop.dll
